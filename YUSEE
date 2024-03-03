@@ -1,0 +1,7 @@
+package com.company.example;
+
+public class sarki {
+   public sarki() {
+      
+   }
+}
